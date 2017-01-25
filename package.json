@@ -1,13 +1,13 @@
 {
-  "name": "rabbit",
-  "version": "1.0.0",
-  "description": "Rabbit mq wrapper",
-  "main": "rabbit.js",
+  "name": "@ticketz/messaging",
+  "version": "0.0.1",
+  "description": "Messaging platform based on RabbitMQ",
+  "main": "messaging.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Emil Bergstrom",
-  "license": "ISC",
+  "license": "The unlicense",
   "dependencies": {
     "amqplib": "^0.5.1"
   }
