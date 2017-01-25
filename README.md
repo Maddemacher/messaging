@@ -1,2 +1,2 @@
 # messaging
-Messaging platform form Ticketz
+Messaging platform for Ticketz
